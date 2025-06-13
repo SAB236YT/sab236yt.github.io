@@ -74,11 +74,11 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "Title go here",
-				"description": "Description go here",
+				"title": "Object Shorts SH. 15",
+				"description": "Red Star OS falls into the World of the Windows",
 				"mediaUrls": {
-					"en": "https://place_your_video_link_here.com/video_file.moflex",
-					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+					"en": "https://cdn.jsdelivr.net/gh/sab236yt/sab236yt.github.io@5c4e6efd09a89f497c4af1528429fc43bc2cdee2/os.moflex",
+					"fr": "https://cdn.jsdelivr.net/gh/sab236yt/sab236yt.github.io@5c4e6efd09a89f497c4af1528429fc43bc2cdee2/os.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
